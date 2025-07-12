@@ -1,6 +1,10 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
+theme: pizza-theme-minimal
+title: kakau pizzaria's homepage
+description: pizzas updates!
+
 on:
   # Runs on pushes targeting the default branch
   push:
